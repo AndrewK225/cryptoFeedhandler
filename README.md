@@ -1,4 +1,4 @@
-# cryptofhl
+# cryptoFeedhandler
 
 poc.cpp is the proof of concept just to connect and stream data.
 
